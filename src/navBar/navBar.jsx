@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { useState } from "react";
-import { BiLogoGmail, BiPhone, BiTime } from "react-icons/bi";
 
 export const Linkk = styled(Link)`
   text-decoration: none;
@@ -31,23 +30,6 @@ export const NavBar = ({ klass }) => {
 
   return (
     <>
-      <div className="row sub-header">
-        <div className="col-md-4">
-          <p style={{ lineHeight: "25px" }} className="ms-5">
-            <BiTime /> Mon - Fri 9:00 Am to 5:00 Pm
-          </p>
-        </div>
-        <div className="col-md-4">
-          <p style={{ lineHeight: "25px" }} className="ms-5">
-            <BiLogoGmail /> halahallltd@gmail.com
-          </p>
-        </div>
-        <div className="col-md-4">
-          <p style={{ lineHeight: "25px" }} className="ms-5">
-            <BiPhone /> 08030805200, +2348023582727
-          </p>
-        </div>
-      </div>
       <nav className={klass} id="navigation">
         <div className="logo">
           {/* <h1>KALA HALL NIG LTD</h1> */}

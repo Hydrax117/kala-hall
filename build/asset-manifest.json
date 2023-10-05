@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e86f1fac.css",
+    "main.js": "/static/js/main.43ebaf5e.js",
+    "static/js/787.8e469119.chunk.js": "/static/js/787.8e469119.chunk.js",
+    "static/media/printing.png": "/static/media/printing.71a5419666d56a47894e.png",
+    "static/media/fashion.png": "/static/media/fashion.ef01725c23af4c55af0c.png",
+    "static/media/construction.png": "/static/media/construction.2b094fd167826972cc68.png",
+    "static/media/ict-trainning.jpg": "/static/media/ict-trainning.d747800d2f6162893cbb.jpg",
+    "static/media/maintenance-technician.jpeg": "/static/media/maintenance-technician.08b5e694b76f569e2300.jpeg",
+    "static/media/img2.jpg": "/static/media/img2.4e4d3226b0b608474133.jpg",
+    "static/media/Oil-and-Gas.jpg": "/static/media/Oil-and-Gas.dbd11f1027adbf92bd32.jpg",
+    "static/media/img3.jpg": "/static/media/img3.d3c813d2c4bb9c2f46be.jpg",
+    "static/media/img1.jpg": "/static/media/img1.740e4aaa37772c396a44.jpg",
+    "static/media/logo.png": "/static/media/logo.f58b2b6067529773ddfe.png",
+    "static/media/catering.jpg": "/static/media/catering.239eefeda54c453c979d.jpg",
+    "static/media/bank_male.jpg": "/static/media/bank_male.ae11454276b0dba80518.jpg",
+    "static/media/skill.jpg": "/static/media/skill.084efa0a00cc82aa2c0a.jpg",
+    "static/media/kamil1.jpg": "/static/media/kamil1.65a2d8226afa72890db4.jpg",
+    "static/media/blank_female.jpg": "/static/media/blank_female.f3a17fedc4c5d9eef56c.jpg",
+    "index.html": "/index.html",
+    "main.e86f1fac.css.map": "/static/css/main.e86f1fac.css.map",
+    "main.43ebaf5e.js.map": "/static/js/main.43ebaf5e.js.map",
+    "787.8e469119.chunk.js.map": "/static/js/787.8e469119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86f1fac.css",
+    "static/js/main.43ebaf5e.js"
+  ]
+}
